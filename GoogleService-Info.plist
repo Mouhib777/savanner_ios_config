@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>975837518429-ertudsg459ud701kev9594keoua0ml9s.apps.googleusercontent.com</string>
+	<string>366490429520-l39qtpoiugomjtta5gi25ljffusfcq2g.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.975837518429-ertudsg459ud701kev9594keoua0ml9s</string>
+	<string>com.googleusercontent.apps.366490429520-l39qtpoiugomjtta5gi25ljffusfcq2g</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>975837518429-25bmhneodj5o063vrs4vlp3fqje3b6sc.apps.googleusercontent.com</string>
+	<string>366490429520-2hrofqrgulpdchnjhkc5scv68gvaubnm.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCpwXU-LIhoOnCp6h1Ixn0joCMrYtvF4Z0</string>
+	<string>AIzaSyDpMiFd3uRk-wbJQx3RXTaHZzwulNA3rfM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>975837518429</string>
+	<string>366490429520</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.sixamtech.sixValley-seller</string>
+	<string>com.savana.seller</string>
 	<key>PROJECT_ID</key>
-	<string>sixvally-ecommerce</string>
+	<string>savana-da309</string>
 	<key>STORAGE_BUCKET</key>
-	<string>sixvally-ecommerce.appspot.com</string>
+	<string>savana-da309.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:975837518429:ios:e9b8e22d04244b699f0bb4</string>
+	<string>1:366490429520:ios:226b6b791af3e5198bc955</string>
+	<key>DATABASE_URL</key>
+	<string>https://savana-da309-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
